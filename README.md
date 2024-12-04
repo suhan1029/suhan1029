@@ -1,11 +1,14 @@
 ## Hi there 👋
-### Welcome to my README, I'm SUHAN KIM. I'm working at We&IT, and I'm attending Dongyang Mirae University
-
-#### AI Researcher / Data Engineering
+### Welcome to my README, I'm SUHAN KIM.
+### I'm working at 🏢We&IT, and I'm attending 🎓Dongyang Mirae University
 
 <br>
 
-🛠️ Stacks
+#### AI Researcher / Data Engineering 💡
+
+<br>
+
+🛠️ **Skills and Stacks**📌
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
 
@@ -18,21 +21,21 @@
 
 <br>
 
-💪🏼 Tools 
+💪🏼 **Tools**
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/>  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
 
 <br>
 
-OS for Development Environment
+🖥️ **OS for Development Environment**
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
 
 
 <br>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhan1029&layout=compact&theme=radical)
 
@@ -49,20 +52,20 @@ OS for Development Environment
 <br>
 
 ## 📬 Contact Me
-- Email: [santana.qwait@gmail.com](mailto:santana.qwait@gmail.com)  &nbsp;&nbsp;&nbsp;  [kimsuhan135@naver.com](mailto:kimsuhan135@naver.com)
-- GitHub: [suhan1029](https://github.com/suhan1029)
+- ✉️Email: [santana.qwait@gmail.com](mailto:santana.qwait@gmail.com)  &nbsp;&nbsp;&nbsp;  [kimsuhan135@naver.com](mailto:kimsuhan135@naver.com)
+- 🌐GitHub: [suhan1029](https://github.com/suhan1029)
 
 <br>
 
 ## 🎨 Hobbies
 - 🎧 Listening to **Pop songs**
-- 📚 Watching Youtube about **Economy, AI news**
+- 📹 Watching Youtube about **Economy, AI news**
 
 <br>
 
 ## 🌍 Languages
 <img src="https://img.shields.io/badge/English-00A4CC?style=for-the-badge&logo=Language&logoColor=white"/>  <img src="https://img.shields.io/badge/Korean-4CA143?style=for-the-badge&logo=Language&logoColor=white"/> 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 
