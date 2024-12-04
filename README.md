@@ -44,7 +44,7 @@
 
 <br>
 
-## About Me
+## 🖐 About Me
 🎓 I have a background in **AI Research** and **Data Engineering**.  
 💡 I am passionate about solving real-world problems using **AI, Machine Learning, Deep Learning**.  
 🌱 Currently exploring **Generative AI**.
