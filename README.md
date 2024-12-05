@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome to my README, I'm SUHAN KIM.
-### I'm working at 🏢We&IT, and I'm attending 🎓Dongyang Mirae University
+### I'm working at 🏢We&IT, and I'm attending 🎓Dongyang Mirae University.
 ### My favorite food is pasta🍝!
 
 <br>
